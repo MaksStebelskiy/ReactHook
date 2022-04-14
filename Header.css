@@ -1,0 +1,16 @@
+.header {
+    height: 80px;
+    font-size: 30px;
+    background: pink;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo {
+    color: DarkRed;
+    margin-left: 15px;
+}
+.header-right {
+    font-size: 25px;
+    margin-right: 15px;
+}

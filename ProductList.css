@@ -1,0 +1,14 @@
+.product {
+    background: Cornsilk;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.button {
+    margin: 15px;
+}
+.table {
+    max-width: 80%;
+    
+}
